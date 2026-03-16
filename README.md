@@ -27,7 +27,7 @@
 <br> <br>
 
 <div align="center">
-<img src="https://media.tenor.com/yNJU-9hPx6MAAAAj/croissant-croissant-cookie.gif" alt="Croissant" width="250"/>
+<img src="https://media.tenor.com/yNJU-9hPx6MAAAAj/croissant-croissant-cookie.gif" alt="Croissant" width="200"/>
 
 <br> <br>
 

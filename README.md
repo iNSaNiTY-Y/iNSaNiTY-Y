@@ -5,6 +5,12 @@
 <br> <br>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/CARNIVORE AND-HERBIVORE MIX-86A633?style=plastic" alt="custom badge"/> 
+</div>
+
+<br> <br>
+
+<div align="center">
 <img src="https://github.com/user-attachments/assets/4abc7bd3-902b-44d2-97e0-592e8153f280" alt="Melon" width="500"/>
 
 <br> <br>

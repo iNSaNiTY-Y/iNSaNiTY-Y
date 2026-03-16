@@ -6,3 +6,9 @@
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/4abc7bd3-902b-44d2-97e0-592e8153f280" alt="Melon" width="500"/>
+
+<br> <br>
+
+<div align="center">
+  <img src="https://64.media.tumblr.com/21c3f5d067156b74081c1239786a793c/5f270cd5113c1cf4-32/s250x400/dba132d5af120f7ff867941fc7efa3ced1281c46.gifv" alt="Leaves2" width="450"/>
+</div>

@@ -23,3 +23,14 @@
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=HI+HI+heellouu!!!+welcoem+to+github;yo+can+call+me+zixuan!+since+thats+my+main+name+on+the+wifi,+but+you+can+call+me+by+other+names,,;im+a+minor+and+i+have+avery+cool+online+family+full+of+crazygays+,,love+ya+gang;weh+imostly+sit+at+cr+area,+gifts,+docks+or+js+some+random+spots+on+pt...;go+follow+DIRECTOR-OF-THE-TBD+since+thats+my+main+github+account...+i+have+like+3+other+accounts+ok&font=Libertinus+Math&center=true&width=1080&height=50&color=bbf696&duration=4000&pause=2500">
+
+<br> <br>
+
+<div align="center">
+<img src="https://media.tenor.com/yNJU-9hPx6MAAAAj/croissant-croissant-cookie.gif" alt="Croissant" width="250"/>
+
+<br> <br>
+
+<div align="center">
+  <img src="https://64.media.tumblr.com/21d35d3220b53b7283f15371a7baa193/aeeff53824811d30-c2/s250x400/f0b73f21a5028db4c4341abbf479954e2e1cf47f.gifv" alt="Leaves3" width="650"/>
+</div>

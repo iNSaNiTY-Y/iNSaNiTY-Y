@@ -18,3 +18,8 @@
 <div align="center">
   <img src="https://64.media.tumblr.com/21c3f5d067156b74081c1239786a793c/5f270cd5113c1cf4-32/s250x400/dba132d5af120f7ff867941fc7efa3ced1281c46.gifv" alt="Leaves2" width="450"/>
 </div>
+
+<br> <br>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=HI+HI+heellouu!!!+welcoem+to+github;yo+can+call+me+zixuan!+since+thats+my+main+name+on+the+wifi,+but+you+can+call+me+by+other+names,,;im+a+minor+and+i+have+avery+cool+online+family+full+of+crazygays+,,love+ya+gang;weh+imostly+sit+at+cr+area,+gifts,+docks+or+js+some+random+spots+on+pt...;go+follow+DIRECTOR-OF-THE-TBD+since+thats+my+main+github+account...+i+have+like+3+other+accounts+ok&font=Libertinus+Math&center=true&width=1080&height=50&color=bbf696&duration=4000&pause=2500">
